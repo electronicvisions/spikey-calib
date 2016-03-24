@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+logfile.txt
+spiketrain.in
+spikeyconfig.out
